@@ -1,5 +1,5 @@
 # **musiQality - Website Design**  
-
+![logo](file:///C:/Users/gpetr/Downloads/22-46-10-369_512.webp)
 ## **Overview**  
 This project showcases the design and development of **musiQality**, a digital platform dedicated to **music production, mixing, and mastering**. The website was built using **Wix.com** and serves as a professional portfolio for the artist, presenting their expertise, projects, and industry insights in an engaging and interactive manner.  
 
