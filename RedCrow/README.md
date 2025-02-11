@@ -5,7 +5,7 @@ This project showcases the design and development of a **music portfolio website
 
 ---  
 ## **🔗 Live Website**  
-**[Visit Topalidis Music Production](https://gpetridou8779.wixsite.com/mysite)**  
+**[Visit RedCrow Music Production](https://gpetridou8779.wixsite.com/mysite)**  
 
 ---  
 ## **🎨 Design Highlights**  
