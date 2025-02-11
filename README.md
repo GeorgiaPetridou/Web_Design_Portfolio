@@ -6,7 +6,7 @@ This repository showcases my work in **web design**, featuring websites I built 
 
 ## 🔗 Live Projects
 1️⃣ [MusiQality](https://gpetridou.wixsite.com/musiqality)  
-2️⃣ [Giannis_Topalidis](https://gpetridou8779.wixsite.com/mysite)
+2️⃣ [RedCrow](https://gpetridou8779.wixsite.com/mysite)
 
 Both websites were created for college students of Mix & Mastering Department of Metropolitan College, Greece.
 The purpose of these websites was to serve as a creative portfolio, showcasing the student's work and academic progress throughout their studies. They were designed to highlight key projects, skills, and achievements in a visually engaging and professional manner, providing an online presence that effectively communicates their expertise and creative journey.
