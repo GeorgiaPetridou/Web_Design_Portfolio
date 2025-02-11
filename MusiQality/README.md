@@ -40,7 +40,12 @@ This project showcases the design and development of **musiQality**, a digital p
 
 ---  
 ## **📸 Screenshots of the Website**  
-_Add screenshots of key pages here (homepage, portfolio, blog section, etc.)_  
+![homepage](https://github.com/user-attachments/assets/b6b43195-eb5e-4829-9783-3e8186454541)
+![menu](https://github.com/user-attachments/assets/b12ed801-02cc-491f-9618-d784b02c329e)
+![musician life](https://github.com/user-attachments/assets/10da62af-ad45-4b32-812b-d82365be327b)
+![projects](https://github.com/user-attachments/assets/36fb3310-7b4e-43e3-bfe0-b9c35473b231)
+![project page](https://github.com/user-attachments/assets/723140cf-c946-4680-b80e-91aec640b829)
+![contact and details](https://github.com/user-attachments/assets/60c46413-e996-45a4-8550-936ba98bc9db)
 
 ---  
 ## **💡 My Role in the Design Process**  
@@ -50,8 +55,3 @@ This project highlights my expertise in:
 ✔ **Wix customization** – Enhancing pre-built templates with unique design elements.  
 ✔ **Mobile responsiveness** – Ensuring seamless functionality across devices.  
 ✔ **Content strategy** – Structuring the website for maximum engagement.  
-
----  
-## **📬 Get in Touch**  
-If you're interested in collaborating or learning more about my work, feel free to reach out! 🚀  
-
